@@ -1,7 +1,7 @@
-# ASCII Banner Generator
+# Bannerutils
 
 ## Overview
-The **ASCII Banner Generator** is a command-line tool that converts text into stylish ASCII art banners. It supports multiple font styles, text alignment, and width customization. The tool is inspired by TAAG and utilizes the **pyfiglet** library for rendering text.
+The **Bannerutils** is a command-line tool that converts text into stylish ASCII art banners. It supports multiple font styles, text alignment, and width customization. The tool is inspired by TAAG and utilizes the **pyfiglet** library for rendering text.
 
 ## Features
 - Convert text into ASCII banners using a variety of fonts.
@@ -33,11 +33,11 @@ pip install bannerutils
    ```
 2. Navigate to the directory:
    ```sh
-   cd ascii-banner-generator
+   cd bannerutils
    ```
 3. Run the script:
    ```sh
-   python banner.py --help
+   python bannerutils.py --help
    ```
 
 ## Usage
